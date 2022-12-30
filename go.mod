@@ -31,7 +31,7 @@ replace github.com/fluxcd/flux/pkg/install => ./pkg/install
 require (
 	github.com/Jeffail/gabs v1.4.0
 	github.com/Masterminds/semver/v3 v3.0.3
-	github.com/aws/aws-sdk-go v1.27.1
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/bradfitz/gomemcache v0.0.0-20190329173943-551aad21a668
 	github.com/cheggaaa/pb/v3 v3.0.2
 	github.com/docker/distribution v2.7.1+incompatible
@@ -48,14 +48,14 @@ require (
 	github.com/imdario/mergo v0.3.8
 	github.com/opencontainers/go-digest v1.0.0-rc1
 	github.com/opentracing-contrib/go-stdlib v0.0.0-20190519235532-cf7a6c988dc9 // indirect
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/pkg/term v0.0.0-20190109203006-aa71e9d9e942
 	github.com/prometheus/client_golang v1.2.1
 	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4
 	github.com/ryanuber/go-glob v1.0.0
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
 	github.com/weaveworks/common v0.0.0-20190410110702-87611edc252e
 	github.com/weaveworks/go-checkpoint v0.0.0-20170503165305-ebbb8b0518ab
 	github.com/whilp/git-urls v0.0.0-20160530060445-31bac0d230fa
